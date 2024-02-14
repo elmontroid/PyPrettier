@@ -1,0 +1,9 @@
+[project]
+name = "prettier"
+version = "0.0.0"
+dependencies = ["colorama"]
+authors = [{name = "cromizone", email = "cromizonebolt@gmail.com"}]
+description = "A JSON syntax highlighter"
+readme = "README.md"
+license = {text = "MIT License"}
+keywords = ["json", "terminal", "highlighter", "pretty", "print"]
