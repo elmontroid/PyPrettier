@@ -1,6 +1,6 @@
 [project]
 name = "prettier"
-version = "0.1.2"
+version = "0.1.3"
 dependencies = ["colorama"]
 authors = [{name = "cromizone", email = "cromizonebolt@gmail.com"}]
 description = "A JSON syntax highlighter"

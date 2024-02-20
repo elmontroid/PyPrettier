@@ -16,6 +16,6 @@ print(prettier.pretty({"string" : "hello world", "list" : ["list", 3, None]}))
 ## Requirements
 - **colorama**: *colorama* helps to get terminal colors
 
-### What I Have Learned
+## What I Have Learned
 - Recursion
 - Python Data Types
